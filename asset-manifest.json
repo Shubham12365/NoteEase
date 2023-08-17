@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NoteEase/static/css/main.fdcad9d0.css",
+    "main.js": "/NoteEase/static/js/main.33caf850.js",
+    "static/media/plus.png": "/NoteEase/static/media/plus.8670d799821bfbb14807.png",
+    "index.html": "/NoteEase/index.html",
+    "main.fdcad9d0.css.map": "/NoteEase/static/css/main.fdcad9d0.css.map",
+    "main.33caf850.js.map": "/NoteEase/static/js/main.33caf850.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdcad9d0.css",
+    "static/js/main.33caf850.js"
+  ]
+}
